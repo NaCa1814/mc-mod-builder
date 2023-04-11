@@ -12,4 +12,4 @@
 6. 进行下载
 
 ### 在自己的库中使用
-直接把 mc mod builder 的 run-on-my-repo 里的工作流文件复制到对应文件夹就行
+直接把 mc mod builder 的 run-on-my-repo start.sh 里的工作流文件复制到对应文件夹就行
