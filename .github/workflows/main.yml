@@ -5,9 +5,9 @@ jobs:
   build:
     runs-on: ubuntu-20.04
     env:
-      DL_URL: https://codeload.github.com/Susul-1312/NuclearCraft/zip/refs/heads/patch-1
-      Pack_Name: NuclearCraft-patch-1
-      Open_Pack_Name: NuclearCraft-patch-1
+      DL_URL:https://codeload.github.com/Susul-1312/NuclearCraft/zip/refs/heads/patch-1
+      Pack_Name:NuclearCraft-patch-1
+      Open_Pack_Name:NuclearCraft-patch-1
     steps:
     - uses: actions/checkout@v2
     - name: Setup Java JDK 11
